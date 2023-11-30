@@ -5,3 +5,4 @@ Aria2p
 Requests
 dnspython
 pymongo
+aria2
